@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="RecipePlanner.Api/RecipePlanner.Api.csproj" />
+  <Project Path="RecipePlanner.Core/RecipePlanner.Core.csproj" />
+  <Project Path="RecipePlanner.Data/RecipePlanner.Data.csproj" />
+  <Project Path="RecipePlanner.Web/RecipePlanner.Web.csproj" />
+</Solution>
